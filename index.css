@@ -4,3 +4,13 @@
     box-sizing:border-box;
     border:1px solid gray;
 }
+
+
+nav{
+    display:inline-block;
+     padding:5%;
+}
+nav button{
+  display:inline-block;
+  text-align:center;  
+}
